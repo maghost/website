@@ -37,7 +37,6 @@
                     Install a script or CMS with Softaculous. <br>
                     Upload your website with FTP or a file manager. <br>
                     Join the free hosting <a href="https://forum.infinityfree.net">community</a>.
-                    <?php var_dump(time()); ?>
                 </p>
             </div>
         </div>
